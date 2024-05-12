@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,bootstrap,css,discord,express,github,html,htmx,js,jenkins,linux,mysql,nodejs,npm,postgres,postman,
+      react,sass,react,twitter,vim,vscode,yarn" />
+  </a>
+</p>
 <!--
 **Webrowse/Webrowse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
