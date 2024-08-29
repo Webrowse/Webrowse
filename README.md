@@ -19,5 +19,4 @@ I'm passionate about web development and constantly exploring new technologies. 
 ## 📫 Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to reach out if you want to discuss projects or just chat about tech!
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Personal Website](https://yourwebsite.com)
+<img src="https://komarev.com/ghpvc/?username=Webrowse&style=flat-square&color=blue" alt=""/>
