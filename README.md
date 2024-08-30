@@ -1,8 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align ="center">
+<img src="https://komarev.com/ghpvc/?username=webrowse&style=flat-square&color=blue" alt=""/>
+  
+</div> 
 ### Hi there 👋
 
 I'm passionate about web development and constantly exploring new technologies. Here's a quick overview of the tools and languages I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=git,vim,bootstrap,css,discord,express,github,html,htmx,js,jenkins,linux,mysql,nodejs,npm,postgres,postman,react,sass,react,twitter,vim,vscode,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vim,bootstrap,css,discord,express,github,html,htmx,js,jenkins,linux,mysql,nodejs,npm,postgres,postman,react,sass,react,twitter,vim,vscode,yarn,rust)](https://skillicons.dev)
 
 - 🌱 I’m currently diving deep into **React** and building dynamic user interfaces.
 - 👯 I’m eager to collaborate on exciting new **React projects**. Let's build something amazing together!
