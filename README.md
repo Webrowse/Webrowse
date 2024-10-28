@@ -11,7 +11,7 @@ I'm passionate about web development and constantly exploring new technologies. 
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webrowse" alt="webrowse" /></a> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,vim,bootstrap,css,discord,express,github,html,htmx,js,jenkins,linux,mysql,nodejs,npm,postgres,postman,react,sass,react,twitter,vim,vscode,yarn,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,figma,mongodb,postgres,firebase,express,npm,nodejs,react,postman,git,rust)](https://skillicons.dev)
 
 - 🌱 I’m currently diving deep into **React** and building dynamic user interfaces.
 - 👯 I’m eager to collaborate on exciting new **React projects**. Let's build something amazing together!
