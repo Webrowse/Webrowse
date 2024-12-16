@@ -15,7 +15,7 @@ I'm passionate about web development and constantly exploring new technologies. 
 
 - 🌱 I’m currently diving deep into **React** and building dynamic user interfaces.
 - 👯 I’m eager to collaborate on exciting new **React projects**. Let's build something amazing together!
-- 📫 Reach out to me on X (formerly Twitter): [@adarsh_web3](https://twitter.com/adarsh_web3)
+
 - ⚡ Fun fact: I love tweaking my development environment and exploring new tools that boost productivity!
 
 ## 📈 GitHub Stats
