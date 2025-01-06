@@ -13,7 +13,7 @@ I'm passionate about web development and constantly exploring new technologies. 
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,figma,mongodb,postgres,firebase,express,npm,nodejs,react,postman,git,rust)](https://skillicons.dev)
 
-- 🌱 I’m currently diving deep into **React** and building dynamic user interfaces.
+- 🌱 I’m currently diving deep into **React** and building dynamic Decentralised user interfaces.
 - 👯 I’m eager to collaborate on exciting new **React projects**. Let's build something amazing together!
 
 - ⚡ Fun fact: I love tweaking my development environment and exploring new tools that boost productivity!
