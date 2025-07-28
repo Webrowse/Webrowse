@@ -24,8 +24,8 @@ Rust developer. Focus: Solana smart contracts and CLI tooling.
 - [smart_tasker](https://github.com/webrowse/smart_tasker) ([crates.io](https://crates.io/crates/smart_tasker))  
   Feature-rich CLI task tracker built with Clap and Serde. Supports config, priorities, and more.
 
-- `solana-rust-cli`  
-  Solana smart contracts in pure Rust (without Anchor). CLI-to-program interaction under development.
+- [solana-fullstack-rust](https://github.com/Webrowse/solana-fullstack-rust)  
+ Solana smart contract written in raw Rust with a CLI tool for interaction, no frameworks used.
 
 
 ### Contact
