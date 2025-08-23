@@ -1,27 +1,22 @@
 # Webrowse  
-Solana Smart Contract Developer · Rust CLI Engineer
+Smart Contract Security Auditor (Solana · Rust · Solidity · Foundry · Anchor)
 
-### Current Focus
-- Writing Solana smart contracts in raw Rust and Anchor
-- Building production-grade CLI tools using Clap and Serde
-- Developing end-to-end Rust workflows for Solana interactions
-- Studying Solana architecture for smart contract security
+### Current Focus  
+- Solana smart contracts in raw Rust and Anchor  
+- Production-grade CLI tools with Clap and Serde  
+- End-to-end Rust workflows for Solana interactions  
+- Smart contract security and architecture  
+- Solidity development with Foundry  
 
-### 📌 Pinned Projects
-- [pda_counter](https://github.com/webrowse/pda_counter): minimal Anchor-based Solana program using PDA
-- [solana-fullstack-rust](https://github.com/Webrowse/solana-fullstack-rust): raw Solana smart contract with Rust CLI interface  
+### 📌 Pinned Projects  
+- [pda_counter](https://github.com/webrowse/pda_counter): Anchor-based Solana program using PDA  
+- [solana-fullstack-rust](https://github.com/Webrowse/solana-fullstack-rust): raw Solana contract with Rust CLI interface  
 - [smart_tasker](https://github.com/webrowse/smart_tasker): task tracker with config and priority support  
-- [notez](https://github.com/webrowse/cli-crud-rust): zero-dependency CLI to-do manager  
+- [fundMeFoundry](https://github.com/Webrowse/FundMeFoundry): Solidity Foundry FundMe contract  
 
-### Technologies
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-262626?style=flat&logo=anchor&logoColor=white)
-![solana_program](https://img.shields.io/badge/solana_program-3C3C3C?style=flat)
-![Borsh](https://img.shields.io/badge/Borsh-8A2BE2?style=flat)
-![Clap](https://img.shields.io/badge/Clap-33AA44?style=flat)
-![Serde](https://img.shields.io/badge/Serde-009999?style=flat)
+### Technologies  
+Rust · Solana · Anchor · solana_program · Borsh · Clap · Serde · Solidity · Foundry  
 
-### Contact
-📧 adarshtechjob@gmail.com  
+### Contact  
+📧 [Email](mailto:adarshtechjob[at]gmail[dot]com)  
 🐦 [X](https://x.com/code_rusty)
