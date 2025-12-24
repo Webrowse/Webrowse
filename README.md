@@ -11,7 +11,7 @@ Smart Contract Security Auditor (Solana · Rust · Solidity · Foundry · Anchor
 ### 📌 Pinned Projects  
 - [pda_counter](https://github.com/webrowse/pda_counter): Anchor-based Solana program using PDA  
 - [solana-fullstack-rust](https://github.com/Webrowse/solana-fullstack-rust): raw Solana contract with Rust CLI interface  
-- [smart_tasker](https://github.com/webrowse/smart_tasker): task tracker with config and priority support  
+- [smart_cli tasker](https://github.com/webrowse/smart-cli-tasker): task tracker with config and priority support  
 - [fundMeFoundry](https://github.com/Webrowse/FundMeFoundry): Solidity Foundry FundMe contract  
 
 ### Technologies  
@@ -19,4 +19,4 @@ Rust · Solana · Anchor · solana_program · Borsh · Clap · Serde · Solidity
 
 ### Contact  
 📧 [Email](mailto:adarshtechjob[at]gmail[dot]com)  
-🐦 [X](https://x.com/code_rusty)
+🐦 [Work-X](https://x.com/code_rusty)
