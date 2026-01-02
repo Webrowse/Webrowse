@@ -1,4 +1,4 @@
-# Webrowse - Rust Backend & Systems Engineer
+# Adarsh - Rust Backend & Systems Engineer
 
 Production-grade Rust backend systems and tooling. Building services and libraries that compile, run, and scale.
 
@@ -14,5 +14,5 @@ Production-grade Rust backend systems and tooling. Building services and librari
 **solana-fullstack-ackee** - full Solana notes dApp (Anchor + React frontend).  
 
 ## Contact
-**X:** https://x.com/webrowse  
+**X:** https://x.com/Adarsh_web3  
 **Email:** [adarshtechjob@gmail.com]
