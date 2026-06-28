@@ -7,7 +7,7 @@ Rust developer focused on networking, distributed systems, and open-source infra
 
 **Reading**
 
-- `hickory-rs/hickory-dns`
+- `hickory-dns/hickory-dns`
 
 **Working Towards**
 
@@ -37,13 +37,19 @@ https://romyq.com
 
 A production-ready feature flag platform built with Rust, Axum, PostgreSQL, SQLx, and Docker.
 
+https://ffs.adarshrust.com
+
 ### KV Store
 
 A persistent key-value store written in Rust to explore storage engines, indexing, and concurrent data access.
 
+https://github.com/Webrowse/rust-kv-store
+
 ### Rust CLI Tools
 
 A collection of small Rust utilities exploring parsing, configuration management, error handling, logging, and command-line application design.
+
+https://crates.io/crates/smart_tasker
 
 ---
 
