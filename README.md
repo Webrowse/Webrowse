@@ -1,78 +1,21 @@
+# Adarsh
 
-# Hi, I'm Adarsh
+Rust engineer building backend infrastructure and open-source software.
 
-Rust developer focused on networking, distributed systems, and open-source infrastructure.
-
-## Currently
-
-**Reading**
-
-- `hickory-dns/hickory-dns`
-
-**Working Towards**
-
-- Contributing well-tested upstream patches to Rust infrastructure projects.
-
-**Building**
-
-- OSSPath
-
----
+Currently contributing upstream to `hickory-dns/hickory-dns`.
 
 ## Projects
 
-### OSSPath
+**[OSSPath](https://osspath.com)** - discovery platform for the Rust ecosystem.
 
-A discovery platform for the Rust ecosystem that connects repositories, dependency relationships, organizations, funding programs, and engineering opportunities.
+**[LoopUpward](https://loopupward.com)** - personal life operating system with a Rust backend.
 
-https://osspath.com
+**[RomyQ](https://Romyq.com)** - autonomous AI engineering agent.
 
-### Romyq
+**[Feature Flag Service](https://ffs.adarshrust.com)** - feature flag platform built with Rust, Axum, SQLx, and PostgreSQL.
 
-An autonomous AI engineering agent that plans, executes, and validates software development tasks.
-
-https://romyq.com
-
-### Feature Flag Service
-
-A production-ready feature flag platform built with Rust, Axum, PostgreSQL, SQLx, and Docker.
-
-https://ffs.adarshrust.com
-
-### KV Store
-
-A persistent key-value store written in Rust to explore storage engines, indexing, and concurrent data access.
-
-https://github.com/Webrowse/rust-kv-store
-
-### Rust CLI Tools
-
-A collection of small Rust utilities exploring parsing, configuration management, error handling, logging, and command-line application design.
-
-https://crates.io/crates/smart_tasker
-
----
-
-## Interests
-
-- Rust
-- Networking
-- Distributed Systems
-- DNS
-- Async Systems
-- Backend Engineering
-- Developer Tooling
-- Open Source
-
----
+**[KV-Store](https://github.com/Webrowse/rust-kv-store)** - persistent key-value store built to explore storage engines, indexing, and concurrent data access.
 
 ## Contact
 
-Website  
-https://adarshrust.com
-
-OSSPath  
-https://osspath.com
-
-Email  
 hello@adarshrust.com
